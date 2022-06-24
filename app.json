@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "trabalhoT1",
+    "slug": "trabalhoT1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
